@@ -21,7 +21,7 @@ function App() {
       <Routes>
         {/* <Route exact path="/optica-website-2023" element={<Home />} /> */}
         <Route path="/" element={<Home />} />
-        <Route path="/team" element={<Team />} />
+        {/* <Route path="/team" element={<Team />} /> */}
         <Route path="/alumni" element={<Alumni />} />
         <Route path="/events" element={<Events />} />
         <Route path="/gallery" element={<Gallery />} />
